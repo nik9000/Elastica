@@ -1,5 +1,8 @@
 CHANGES
 
+2014-06-13
+- Stop two tests from failing some of the time #634
+
 2014-06-11
 - Allow bulk API deletes to be routed #631
 
